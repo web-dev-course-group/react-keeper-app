@@ -1,0 +1,11 @@
+/* Local Fonts */
+
+@font-face {
+  font-family: 'McLaren';
+  src: url('fonts/McLaren-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Regular.ttf');
+}
